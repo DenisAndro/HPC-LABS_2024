@@ -14,9 +14,11 @@
 4) Строю лог. график, для того, чтобы результаты были более наглядными
 
 ## **Замеры для различных размеров матриц:**
-![image](https://github.com/user-attachments/assets/b8918d78-490b-4428-873c-7f70549f70c8)
+![image](https://github.com/user-attachments/assets/42d92d57-6779-42a8-9cdd-72f3130239ec)
 
 ## **Графики производительности:**
-![image](https://github.com/user-attachments/assets/84b3144c-0ddb-4004-8a6a-63e0e6609d0f)
+![image](https://github.com/user-attachments/assets/2396db05-d1f8-49b5-9177-3b591d63acf7)
 
-![image](https://github.com/user-attachments/assets/0541a1c1-179a-4bca-9be5-fbb4aaa91596)
+
+![image](https://github.com/user-attachments/assets/ab3d8e47-6b01-42a3-a635-3c521bf16303)
+
