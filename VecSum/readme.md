@@ -25,5 +25,5 @@ GPU с применением CUDA.
 ## **Результаты работы:**
 ![image](https://github.com/user-attachments/assets/a882a7e4-8f19-46b9-a5ad-b6e06b03ba39)
 
-### График с временем выполнения для каждого ресурса
+### График с временем выполнения для каждого ресурса:**
 ![image](https://github.com/user-attachments/assets/cf061b98-a37f-4216-a7ff-baf6e6b5739a)
